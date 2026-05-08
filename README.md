@@ -5,7 +5,7 @@ This repository contains the Quarto presentation materials for the introduction 
 The presentation has been adapted to Quarto format from an original PowerPoint slide deck, focusing on a clean, bilingual-capable design (primary language: French) using the `revealjs` format.
 
 ## 📺 Live Presentation
-**[Click here to view the live presentation](https://Alliance-RDM-GDR.github.io/CUR_Res_FRDR_Presentation/)**
+**[Click here to view the live presentation](https://Alliance-RDM-GDR.github.io/CUR_Res_FRDR_Presentation/Acfas_FRDR_2026.html)**
 
 ## Contents
 - **FRDR_Acfas/**: Contains the main presentation file (`Acfas_FRDR_2026.qmd`), custom CSS styles, and institutional logos.
