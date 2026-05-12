@@ -1,5 +1,5 @@
 ---
-title: "Le dépôt fédéré de données de recherche (DFDR)"
+title: "Le Dépôt Fédéré de Données de Recherche (DFDR)"
 author: 
   - name: Équipe de curation des données du DFDR
     email: curators@frdr-dfdr.ca
