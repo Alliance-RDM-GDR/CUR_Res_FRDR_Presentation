@@ -62,17 +62,17 @@ editor: source
 :::: {layout-ncol="3"}
 ::: {#first-column}
 ### {{< bi person-badge >}} Comptes
-**437**
+**~500**
 :::
 
 ::: {#second-column}
 ### {{< bi database >}} Ensembles
-**469**
+**803**
 :::
 
 ::: {#third-column}
 ### {{< bi hdd-stack >}} Volume
-**229 To**
+**443 To**
 :::
 ::::
 
@@ -123,13 +123,14 @@ La curation ajoute de la valeur en optimisant les données pour leur **découver
 - Enrichir les métadonnées pour la repérabilité.
 - Transformer les formats de fichiers pour l'accessibilité.
 - Évaluer selon les **principes FAIR**.
+:::
 
 **Rôle du DFDR :** Vérification des licences, de l'attribution, de la dénomination et des sensibilités potentielles.
 
 ::: callout-tip
 Les chercheurs font partie intégrante de ce processus interactif !
 :::
-:::
+
 
 ## Publication des données {.center}
 
@@ -156,9 +157,9 @@ Incluez votre DOI dans vos publications, votre CV et votre profil ORCID.
 
 ## Après la publication {.center}
 
-::: {style="text-align: left;font-size: 90%"}
 ### Vos données restent les vôtres !
 
+::: {style="text-align: left;font-size: 90%"}
 - Vous conservez vos droits et responsabilités.
 - Vous pouvez **réutiliser** votre ensemble de données.
 - Vous pouvez créer une **nouvelle version** si des mises à jour sont nécessaires.
@@ -180,7 +181,6 @@ Incluez votre DOI dans vos publications, votre CV et votre profil ORCID.
 - Soutien continu après la publication.
 :::
 
-
 ## Ressources et soutien {.smaller}
 
 ::::: {layout-ncol="2"}
@@ -191,7 +191,6 @@ Incluez votre DOI dans vos publications, votre CV et votre profil ORCID.
 -   [Guide de l'utilisateur Borealis](https://borealisdata.ca/guides/en/latest/user/)
 -   [Ressources de formation de l’Alliance](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources)
 ::::
-
 
 ### Services d'appui:
 
