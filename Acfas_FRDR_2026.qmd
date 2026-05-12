@@ -1,6 +1,5 @@
 ---
-title: "Introduction aux services nationaux de GDR"
-subtitle: "Dépôt fédéré de données de recherche (DFDR)"
+title: "Le dépôt fédéré de données de recherche (DFDR)"
 author: 
   - name: Équipe de curation des données du DFDR
     email: curators@frdr-dfdr.ca
@@ -76,6 +75,11 @@ editor: source
 :::
 ::::
 
+::: {style="text-align: center; font-size: 70%"}
+![](images/DFDR.png){fig-alt="" fig-align="center" width="600" height="400"}
+:::
+
+
 # Pour commencer : Compte et dépôt de données
 
 ## Créer un compte DFDR {.center}
@@ -145,16 +149,6 @@ Incluez votre DOI dans vos publications, votre CV et votre profil ORCID.
 :::
 :::
 
-## Page de renvoi de l'ensemble de données {.center}
-
-::: {style="text-align: left;font-size: 90%"}
-- Conditions d'utilisation
-- Télécharger des données
-- LICENCE et sommes de contrôle (checksums)
-- Parcourir les fichiers
-- Citation recommandée
-:::
-
 ## Après la publication {.center}
 
 ### Vos données restent les vôtres !
@@ -164,21 +158,6 @@ Incluez votre DOI dans vos publications, votre CV et votre profil ORCID.
 - Vous pouvez **réutiliser** votre ensemble de données.
 - Vous pouvez créer une **nouvelle version** si des mises à jour sont nécessaires.
 - Toute modification apportée doit être transparente.
-:::
-
-## Soutien aux chercheurs {.center}
-
-::: {style="text-align: left;font-size: 90%"}
-**Au sein de votre établissement :**
-- Vos bibliothécaires spécialisés en données de recherche.
-
-**Ressources en ligne :**
-- Documentation du DFDR et modèles de fichier README (EN/FR).
-
-**L'équipe du DFDR :**
-- {{< bi envelope >}} Contact : `support@frdr-dfdr.ca`
-- Consultations avant le dépôt.
-- Soutien continu après la publication.
 :::
 
 ## Ressources et soutien {.smaller}
